@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>testrest</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.rawg.io/api/games?key=27add0a42a4e45ceaee73bc52fc7ffa5&amp;ordering=-metacritic</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 17:48:45</sys_created_on>
+        <sys_id>7cc8425347a9511023ed9995536d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testrest</sys_name>
+        <sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
+        <sys_update_name>sys_rest_message_7cc8425347a9511023ed9995536d43fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 17:48:45</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Install help">9f7ba1534729511023ed9995536d436b</application>
+        <file_path/>
+        <instance_id>cdcf8d0cdb69d740cbf6d5b0cf9619e5</instance_id>
+        <instance_name>dev56201</instance_name>
+        <name>sys_rest_message_7cc8425347a9511023ed9995536d43fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>testrest</name><oauth2_profile/><protocol_name/><rest_endpoint>https://api.rawg.io/api/games?key=27add0a42a4e45ceaee73bc52fc7ffa5&amp;ordering=-metacritic</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-31 17:48:45</sys_created_on><sys_id>7cc8425347a9511023ed9995536d43fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testrest</sys_name><sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package><sys_policy/><sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope><sys_update_name>sys_rest_message_7cc8425347a9511023ed9995536d43fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-31 17:48:45</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>1547162290</payload_hash>
+        <record_name>testrest</record_name>
+        <reverted_from/>
+        <source>3c4935d34769511023ed9995536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 17:48:45</sys_created_on>
+        <sys_id>92590e5347a9511023ed9995536d43ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f5050d8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 17:48:45</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>da590e531fa9511070121f4d989cdcab</update_guid>
+        <update_guid_history>da590e531fa9511070121f4d989cdcab:1547162290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 18:24:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>35fdf01a6dda4cf9908001248a01f671</sys_id>
+        <sys_metadata>7cc8425347a9511023ed9995536d43fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testrest</sys_name>
+        <sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
+        <sys_scope_delete display_value="">1b4a3915a67c49fab46f936d463ffcd9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_7cc8425347a9511023ed9995536d43fc</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_7cc8425347a9511023ed9995536d43fc">92590e5347a9511023ed9995536d43ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 18:24:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
