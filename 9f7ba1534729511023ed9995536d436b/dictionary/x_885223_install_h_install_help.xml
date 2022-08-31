@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sc_cat_item" label="Install help" max_length="40" name="x_885223_install_h_install_help" type="collection"/>
+</database>
