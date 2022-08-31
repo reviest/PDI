@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Install Help (s)">1d1ced174729511023ed9995536d431e</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 15:42:33</sys_created_on>
+        <sys_id>f57ce5174729511023ed9995536d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Install Help (s)</sys_name>
+        <sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
+        <sys_update_name>sc_cat_item_category_f57ce5174729511023ed9995536d43fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 15:42:33</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

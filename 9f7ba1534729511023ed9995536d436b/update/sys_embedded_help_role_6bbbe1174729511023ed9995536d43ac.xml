@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_885223_install_h.install_help_user" name="x_885223_install_h.install_help_user">a7bbe1174729511023ed9995536d43aa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 15:39:24</sys_created_on>
+        <sys_id>6bbbe1174729511023ed9995536d43ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a7bbe1174729511023ed9995536d43aa</sys_name>
+        <sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6bbbe1174729511023ed9995536d43ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 15:39:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
