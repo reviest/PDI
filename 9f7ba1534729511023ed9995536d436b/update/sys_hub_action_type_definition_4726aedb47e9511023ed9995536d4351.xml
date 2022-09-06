@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4726aedb47e9511023ed9995536d4351</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Game Definer</sys_name>
         <sys_overrides/>
         <sys_package display_value="Install help" source="x_885223_install_h">9f7ba1534729511023ed9995536d436b</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_4726aedb47e9511023ed9995536d4351</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:02:00</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:35</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -49,10 +49,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:01:59</sys_created_on>
         <sys_id>0ed7ea5f47e9511023ed9995536d43e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:01:59</sys_updated_on>
-        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FD0ad7ea5f2ce9511081344bf4376a7fd4":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD0ad7ea5f2ce9511081344bf4376a7fd4.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"e8cf2134-d8ac-4ebd-9ffc-7e195c321900\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD0ad7ea5f2ce9511081344bf4376a7fd4\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"-1\"}"}},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2022-09-05 18:28:04</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FD0ad7ea5f2ce9511081344bf4376a7fd4":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD0ad7ea5f2ce9511081344bf4376a7fd4.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"e8cf2134-d8ac-4ebd-9ffc-7e195c321900\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD0ad7ea5f2ce9511081344bf4376a7fd4\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">06d7ea5f47e9511023ed9995536d43d8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -123,10 +123,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:00:43</sys_created_on>
         <sys_id>6387eadb47e9511023ed9995536d4344</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:00:44</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:30</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6387eadb47e9511023ed9995536d4344"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -137,9 +137,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:00:44</sys_created_on>
         <sys_id>7387a65f47e9511023ed9995536d43af</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:00:44</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:30</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 //Defining period
 
@@ -148,21 +148,24 @@ var days = gdt.getDaysInMonthUTC();
 var start = gdt.toString();
 var end = days.toString();
 var year = start.substr(0, 8);
-var dates = "" + year + "01," + "" + year + days + "";
+var dates = '' + year + '01,' + '' + year + days + '';
 
 //REST Call
 
-var endpoint = "https://api.rawg.io/api/games?key=27add0a42a4e45ceaee73bc52fc7ffa5&amp;ordering=-metacritic&amp;dates=" + "" + dates + "";
-var req = new sn_ws.RESTMessageV2();
-req.setEndpoint(endpoint);
-req.setHttpMethod('GET');
+var req = new sn_ws.RESTMessageV2('x_885223_install_h.game_call', 'GET');
+req.setStringParameter('query','dates=' + dates + '');
 var response = req.execute();
 var responseBody = response.getBody();
 var httpStatus = response.getStatusCode();
 
 //Defining game
 
-var results = JSON.parse(responseBody).results[0].name;
+var title = JSON.parse(responseBody).results[0];
+var results = 'The best game this month is ' + title.name + '.';
+var metacritic = title.metacritic;
+if (metacritic == null) {
+	results = 'There are no good games this month yet. Spend some time outside instead!';
+}
 outputs.game = results;
 
 })(inputs, outputs);</value>
@@ -638,17 +641,17 @@ outputs.game = results;
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Game Definer">4726aedb47e9511023ed9995536d4351</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"eed72e5f47e9511023ed9995536d43cf","name":"plan","plan_signature":null}}</plan>
-        <snapshot>92d72e5f47e9511023ed9995536d4329</snapshot>
+        <snapshot>14adc44147b1111023ed9995536d43b9</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:02:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>eed72e5f47e9511023ed9995536d43cf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:02:01</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:36</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -697,10 +700,10 @@ outputs.game = results;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:02:00</sys_created_on>
         <sys_id>9ed72e5f47e9511023ed9995536d4326</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:02:00</sys_updated_on>
-        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FD9ad72e5fffe951108c29b2da579d3c11":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD9ad72e5fffe951108c29b2da579d3c11.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"e8cf2134-d8ac-4ebd-9ffc-7e195c321900\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD9ad72e5fffe951108c29b2da579d3c11\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2022-09-05 18:28:59</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FD9ad72e5fffe951108c29b2da579d3c11":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD9ad72e5fffe951108c29b2da579d3c11.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"e8cf2134-d8ac-4ebd-9ffc-7e195c321900\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD9ad72e5fffe951108c29b2da579d3c11\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">12d72e5f47e9511023ed9995536d4319</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -771,10 +774,10 @@ outputs.game = results;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:02:00</sys_created_on>
         <sys_id>9ad72e5f47e9511023ed9995536d4304</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Install help">9f7ba1534729511023ed9995536d436b</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:02:00</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:35</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9ad72e5f47e9511023ed9995536d4304"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -785,9 +788,9 @@ outputs.game = results;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-31 20:02:00</sys_created_on>
         <sys_id>5ad72e5f47e9511023ed9995536d430f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-31 20:02:00</sys_updated_on>
+        <sys_updated_on>2022-09-05 19:17:35</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 //Defining period
 
@@ -796,21 +799,24 @@ var days = gdt.getDaysInMonthUTC();
 var start = gdt.toString();
 var end = days.toString();
 var year = start.substr(0, 8);
-var dates = "" + year + "01," + "" + year + days + "";
+var dates = '' + year + '01,' + '' + year + days + '';
 
 //REST Call
 
-var endpoint = "https://api.rawg.io/api/games?key=27add0a42a4e45ceaee73bc52fc7ffa5&amp;ordering=-metacritic&amp;dates=" + "" + dates + "";
-var req = new sn_ws.RESTMessageV2();
-req.setEndpoint(endpoint);
-req.setHttpMethod('GET');
+var req = new sn_ws.RESTMessageV2('x_885223_install_h.game_call', 'GET');
+req.setStringParameter('query','dates=' + dates + '');
 var response = req.execute();
 var responseBody = response.getBody();
 var httpStatus = response.getStatusCode();
 
 //Defining game
 
-var results = JSON.parse(responseBody).results[0].name;
+var title = JSON.parse(responseBody).results[0];
+var results = 'The best game this month is ' + title.name + '.';
+var metacritic = title.metacritic;
+if (metacritic == null) {
+	results = 'There are no good games this month yet. Spend some time outside instead!';
+}
 outputs.game = results;
 
 })(inputs, outputs);</value>
